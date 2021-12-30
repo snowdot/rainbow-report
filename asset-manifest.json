@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rainbow-report/static/css/main.8f1c3cf4.css",
-    "main.js": "/rainbow-report/static/js/main.a710cd5b.js",
+    "main.js": "/rainbow-report/static/js/main.397ed3e1.js",
     "static/js/787.fbfc1532.chunk.js": "/rainbow-report/static/js/787.fbfc1532.chunk.js",
     "static/media/grants.csv": "/rainbow-report/static/media/grants.c1bf4492ce5bbb73c06e.csv",
     "static/media/grants_gr12.csv": "/rainbow-report/static/media/grants_gr12.4874759102fed3f3e034.csv",
@@ -21,11 +21,11 @@
     "static/media/stacked_grants.csv": "/rainbow-report/static/media/stacked_grants.b1c18cd05791837cb349.csv",
     "static/media/averages_gr12.csv": "/rainbow-report/static/media/averages_gr12.e0ea670ca392eb87abd8.csv",
     "main.8f1c3cf4.css.map": "/rainbow-report/static/css/main.8f1c3cf4.css.map",
-    "main.a710cd5b.js.map": "/rainbow-report/static/js/main.a710cd5b.js.map",
+    "main.397ed3e1.js.map": "/rainbow-report/static/js/main.397ed3e1.js.map",
     "787.fbfc1532.chunk.js.map": "/rainbow-report/static/js/787.fbfc1532.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f1c3cf4.css",
-    "static/js/main.a710cd5b.js"
+    "static/js/main.397ed3e1.js"
   ]
 }
